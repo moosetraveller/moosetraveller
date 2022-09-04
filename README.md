@@ -2,9 +2,9 @@
 
 ### My GitHub Gist Pages
 
-As of September 4, 2022; newer list can be found [here](https://gist.github.com/moosetraveller)
+As of September 4, 2022, newer list can be found [**here**](https://gist.github.com/moosetraveller).
 
-<div>
+<div style="height: 400px; max-height: 400px; overflow-y: scroll;">
   <ul>
     <li>
         <a href="https://api.github.com/gists/1261fc849c1cc6019eedcbf929f7b460" target="_bank">Prepare Embedded Python with GIS Packages for Windows</a>
