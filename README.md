@@ -2,7 +2,7 @@
 
 ### My GitHub Gist Pages
 
-As of September 4, 2022, newer list can be found [**here**](https://gist.github.com/moosetraveller).
+A newer list can be found [**here**](https://gist.github.com/moosetraveller).
 
 <div style="height: 400px; max-height: 400px; overflow-y: scroll;">
   <ul>
