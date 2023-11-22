@@ -28,9 +28,6 @@ A newer list can be found [**here**](https://gist.github.com/moosetraveller).
         <a href="https://gist.github.com/moosetraveller/dcc0f5bb76a071195b86959b8ab036c8" target="_bank">ArcGIS API for Python installation fails</a>
     </li>
     <li>
-        <a href="https://gist.github.com/moosetraveller/690b4df87c1f6f8f234446352a86691d" target="_bank">How to install and run postgresql in conda </a>
-    </li>
-    <li>
         <a href="https://gist.github.com/moosetraveller/064ab49ec3ec84658a1d15a47eb04136" target="_bank">Create DateTime widget for QGIS Processing Tool</a>
     </li>
     <li>
