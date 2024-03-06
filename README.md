@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### My GitHub Gist Pages
-
 My Gist pages can be found [**here**](https://gist.github.com/moosetraveller).
 
 <!--
